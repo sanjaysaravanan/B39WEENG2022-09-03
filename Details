@@ -1,0 +1,48 @@
+Topics:
+  Anonymous Function ---> A function without any name
+  IIFE --> Immediately Invoked Function Expression & 
+
+  Plural --> Multiple Items or More than One
+  Array Methods: 
+    callback function accepts parameters (value, index, array)
+    value --> element of array on each iteration
+    index --> index of the elemen on each iteration
+    array --> Complate array on top of which the forEach is called
+
+    Filter --> Takes a function which returns true or false condition 
+      based on which the elements of the array will accumulated into a new array
+    Find --> Takes a function which returns true or false condition
+      based on which return the first element of the array which gives true
+    FindIndex --> Takes a function which returns true or false condition
+      based on which return the index of the first element of the array which gives true
+
+    forEach
+      1. simply iterates and executes the passed function
+      2. No Return type
+
+    Map --> 
+      1. iterates and accumulated the return of the passed function into a new Array. if no return in the function then undefined will be accumulated as new array
+      2. Return an array same length
+
+    Join:
+      Join the elements of the array with a pattern in-between
+
+    Push:
+      insert an element at the end/next available index of the array
+      
+    Pop:
+      Removes the last element of the array returns the removed item
+      
+    Reverse:
+      Reverses the entire array of elements
+
+
+    Flat:
+      return the new array whose array elements are flattend
+    
+    Flatmap:
+      returns a new array whose array elements are flatted with map at a depth of 1
+
+
+    Next Session:
+      Reduce -->
