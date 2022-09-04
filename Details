@@ -12,9 +12,9 @@ Topics:
     Filter --> Takes a function which returns true or false condition 
       based on which the elements of the array will accumulated into a new array
     Find --> Takes a function which returns true or false condition
-      based on which return the first element of the array which gives true
+      based on which return the first element of the array which satifies the condition
     FindIndex --> Takes a function which returns true or false condition
-      based on which return the index of the first element of the array which gives true
+      based on which return the index of the first element of the array which satifies the condition
 
     forEach
       1. simply iterates and executes the passed function
